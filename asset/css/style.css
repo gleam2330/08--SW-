@@ -1,0 +1,19 @@
+* {box-sizing: border-box;}
+
+.mix-wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+.mix {
+    width: 15%;
+    margin: 1em;
+    text-align: center;
+    padding: 5px;
+    display: inline-block;
+}
+img {
+    width: 100%;
+    margin: 3em 1%;
+    text-align: center;
+    display: inline-block;
+}

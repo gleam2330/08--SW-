@@ -10,7 +10,7 @@
 
 **1. git version**
 
-![깃 설치 버전](2.34.1)
+![2.34.1]
 
 **2. github repository**  
 레파지토리 주소: <https://github.com/gleam2330/08--SW-.git>
